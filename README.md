@@ -1,1 +1,1 @@
-# simple crawl free ebook on packpub
+# simple python spider get free ebook on packpub using scrapy framework
